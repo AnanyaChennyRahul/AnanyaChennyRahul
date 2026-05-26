@@ -1,4 +1,4 @@
-#Ananya Chenny Rahul
+## Ananya Chenny Rahul
 
 I'm a Data Science and Economics graduate from FLAME University, interested in building AI systems that are useful in the real world, and explainable enough to trust.
 
