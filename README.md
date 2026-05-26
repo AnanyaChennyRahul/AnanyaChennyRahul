@@ -84,15 +84,6 @@ Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
 **Development and Tools**  
 Git, GitHub, FastAPI, Django, React, Vite, Docker, LaTeX, VS Code, Kaggle
 
----
-
-## What I'm Currently Working On
-
-- Strengthening my DSA and coding interview preparation
-- Building portfolio-ready AI applications
-- Improving my GitHub project documentation
-- Exploring research extensions in computer vision and transfer learning
-- Learning German
 
 ---
 
