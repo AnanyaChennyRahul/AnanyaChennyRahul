@@ -1,4 +1,4 @@
-# Hi, I'm Ananya
+#Ananya Chenny Rahul
 
 I'm a Data Science and Economics graduate from FLAME University, interested in building AI systems that are useful in the real world, and explainable enough to trust.
 
@@ -112,5 +112,5 @@ Git, GitHub, FastAPI, Django, React, Vite, Docker, LaTeX, VS Code, Kaggle
 
 ## Links
 
-- LinkedIn: [www.linkedin.com/in/ananya-chenny-rahul-ab7660275]
+- LinkedIn: www.linkedin.com/in/ananya-chenny-rahul-ab7660275
 - Email: [ananyachennyrahul@gmail.com]
