@@ -113,4 +113,4 @@ Git, GitHub, FastAPI, Django, React, Vite, Docker, LaTeX, VS Code, Kaggle
 ## Links
 
 - LinkedIn: www.linkedin.com/in/ananya-chenny-rahul-ab7660275
-- Email: [ananyachennyrahul@gmail.com]
+- Email: ananyachennyrahul@gmail.com
